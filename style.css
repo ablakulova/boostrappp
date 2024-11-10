@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login{
+    color:#43AD46;
+    background: none;
+    border: none;
+}
+.sign-up{
+    color:#fff;
+    background: #43AD46;
+    border: none;
+    border-radius: 5px;
+}
